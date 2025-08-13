@@ -1,4 +1,4 @@
-TARGET = "panel-date-format@keiii.github.com.zip"
+TARGET = "panel-date-format@yasmar.net.zip"
 
 DIST_FILES = \
 	schemas/ \

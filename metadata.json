@@ -1,8 +1,8 @@
 {
-  "uuid": "panel-date-format@keiii.github.com",
+  "uuid": "panel-date-format@yasmar.net",
   "name": "Panel Date Format",
-  "description": "Allows to customize the date format on the panel.",
-  "url": "https://github.com/KEIII/gnome-shell-panel-date-format",
+  "description": "Allows to customize the date format on the panel. This is a fork that adds Dash2Panel support.",
+  "url": "https://github.com/a1291762/gnome-shell-panel-date-format",
   "shell-version": ["45", "46", "47", "48"],
   "settings-schema": "org.gnome.shell.extensions.panel-date-format",
   "version": 3
